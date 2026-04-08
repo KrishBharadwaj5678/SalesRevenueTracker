@@ -23,6 +23,7 @@ Built using Streamlit, this app provides an easy way to visualize and understand
 | Technology                 | Purpose                                |
 | -------------------------- | -------------------------------------- |
 | 🐍 **Python**              | Core programming language              |
+| 📊 **Pandas**              | Data handling and processing           |
 | 🎈 **Streamlit**           | Builds the interactive web application |
 
 ---
