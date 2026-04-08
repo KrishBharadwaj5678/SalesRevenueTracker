@@ -3,6 +3,8 @@
 A simple and interactive web application that helps users **track and analyze sales and revenue data** of a company from **2001 to 2024**.
 Built using Streamlit, this app provides an easy way to visualize and understand business performance over time.
 
+![SalesRevenueTrackerDemo](https://github.com/KrishBharadwaj5678/SalesRevenueTracker/blob/main/SalesRevenueTrackerDemo.png)
+
 ## ✨ Features
 
 | Feature                | Description                                   |
