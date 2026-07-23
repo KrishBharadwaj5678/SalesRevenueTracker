@@ -1,11 +1,29 @@
-# 📊 Sales & Revenue Tracker
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishBharadwaj5678&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://hits.sh/github.com/KrishBharadwaj5678/SalesRevenueTracker.svg?style=for-the-badge&label=Repo%20Views&color=blue" />
+  <img src="https://img.shields.io/github/stars/KrishBharadwaj5678/SalesRevenueTracker?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/KrishBharadwaj5678/SalesRevenueTracker?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/repo-size/KrishBharadwaj5678/SalesRevenueTracker?style=for-the-badge&color=blue" />
+</p>
 
-A simple and interactive web application that helps users **track and analyze sales and revenue data** of a company from **2001 to 2024**.
-Built using Streamlit, this app provides an easy way to visualize and understand business performance over time.
+<p align="center">
+  <a href="README.md">English</a> | 
+  <a href="README.pt.md">Português</a> | 
+  <a href="README.ja.md">日本語</a> | 
+  <a href="README.ru.md">Русский</a>
+</p>
+
+<h1 align="center">📊 Sales & Revenue Tracker</h1>
+
+<p align="center">
+  An interactive Streamlit-based web application designed to track, analyze, and visualize a company's sales and revenue performance from 2001 to 2024. It provides intuitive dashboards and insightful visualizations to help users identify trends and make data-driven decisions.
+</p>
 
 ![SalesRevenueTrackerDemo](https://github.com/KrishBharadwaj5678/SalesRevenueTracker/blob/main/SalesRevenueTrackerDemo.png)
 
-## ✨ Features
+<img src="https://github.com/KrishBharadwaj5678/SalesRevenueTracker/raw/main/assets/readme/divider.gif" width="100%"/>
+
+## <img src="https://github.com/KrishBharadwaj5678/SalesRevenueTracker/raw/main/assets/readme/features.gif" width="35"/> Features
 
 | Feature                | Description                                   |
 | ---------------------- | --------------------------------------------- |
@@ -16,19 +34,19 @@ Built using Streamlit, this app provides an easy way to visualize and understand
 | 📅 Time-Based Analysis | Explore data across different years           |
 | 🌐 Web-Based           | Accessible from any browser                   |
 
----
+<img src="https://github.com/KrishBharadwaj5678/SalesRevenueTracker/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## 🛠️ Tech Stack
+## <img src="https://github.com/KrishBharadwaj5678/SalesRevenueTracker/raw/main/assets/readme/techStack.gif" width="35"/> Tech Stack
 
-| Technology                 | Purpose                                |
-| -------------------------- | -------------------------------------- |
-| 🐍 **Python**              | Core programming language              |
-| 📊 **Pandas**              | Data handling and processing           |
-| 🎈 **Streamlit**           | Builds the interactive web application |
+| Technology | Purpose |
+| ---------- | ------- |
+| <img src="https://skillicons.dev/icons?i=python" width="25"/> **Python** | Core programming language |
+| <img src="https://cdn.simpleicons.org/pandas/150458" width="25"/> **Pandas** | Data handling and processing |
+| <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="25"/> **Streamlit** | Builds the interactive web application |
 
----
+<img src="https://github.com/KrishBharadwaj5678/SalesRevenueTracker/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## 🚀 Getting Started
+## <img src="https://github.com/KrishBharadwaj5678/SalesRevenueTracker/raw/main/assets/readme/gettingStarted.gif" width="35"/> Getting Started
 
 ### 1️⃣ Clone the Repository
 
@@ -54,15 +72,14 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
+<img src="https://github.com/KrishBharadwaj5678/SalesRevenueTracker/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## Contributing 🤝
+## <img src="https://github.com/KrishBharadwaj5678/VisionPulse/raw/main/assets/readme/license.gif" width="35"/> License
 
-Want to contribute? Here's how:
+This project is licensed under the **MIT License**.
 
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch (`git checkout -b feature-name`).
-3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
-4. 🚀 Push to your branch (`git push origin feature-name`).
-5. 🔄 Submit a pull request to merge into the main branch.
+See the [LICENSE](LICENSE) file for more details.
 
+<p align="center">
+  <img src="https://github.com/KrishBharadwaj5678/SalesRevenueTracker/raw/main/assets/readme/footer.gif" width="250px"/>
+</p>
